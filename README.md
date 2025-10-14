@@ -1,2 +1,2 @@
-This is an asteroid project I completed as part of my Boot.Dev course.
+This is an asteroid project I completed as part of my Boot.Dev course.  
 Utlizes pygame and random generation to play a simulated vrsion of asteroids
